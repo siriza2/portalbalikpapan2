@@ -1,6 +1,6 @@
-# Laravel SB Admin 2
+# Aplikasi Portal Masyarakat Kota Balikpapan 
 
-SB Admin 2 for Laravel.
+Laravel Versi
 
 | Laravel Version | Branch |
 |-----------------|--------|
@@ -28,14 +28,13 @@ SB Admin 2 for Laravel.
 - Rename or copy `.env.example` file to `.env`
 - Run `php artisan key:generate`
 - Set your database credentials in your `.env` file
+- Set php artisan migrate
 
 ## Note
 
-Recommend to install this preset on a project that you are starting from scratch, otherwise your project's design might break.
+
 
 ## Credits
-
-Laravel SB Admin 2 uses some open-source third-party libraries/packages, many thanks to the web community.
 
 - Laravel - Open source framework.
 - LaravelEasyNav - Making managing navigation in Laravel easy.
@@ -55,21 +54,7 @@ Laravel SB Admin 2 uses some open-source third-party libraries/packages, many th
 
 ***
 
-`dashboard`
 
-<img src="https://imgur.com/CrmOfT5l.png">
-
-***
-
-`profile`
-
-<img src="https://imgur.com/5t4eS1rl.png">
-
-***
-
-`logout`
-
-<img src="https://imgur.com/d9JclOYl.png">
 
 ## License
 
